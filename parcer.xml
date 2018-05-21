@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="../css/xml.css"?>
+
+<Cinema> 
+	<Poster> 
+	
+	<span>Уже на экранах кинотеатров Кременчуга</span>
+		<movie>
+			<name class='height'>ДЕДПУЛ 2</name>
+			<time>с 17.05</time>
+			<genre>фантастика, комедія, бойовик, пригоди</genre>
+		</movie>
+		<movie>
+			<name class='height'>ОСТРІВ СОБАК</name>
+			<time >c 3.05</time>
+			<genre>комедія, мультфільм, пригоди</genre>
+		</movie>
+		<movie>
+			<name>МЕСНИКИ: ВІЙНА НЕСКІНЧЕН- НОСТІ</name>
+			<time>с 26.04</time>
+			<genre>фантастика, бойовик, пригоди, фентезі</genre>
+		</movie>
+		<movie>
+			<name>ТЕРМІНАЛ</name>
+			<time>с 10.05</time>
+			<genre>трилер, драма</genre>
+		</movie>
+		<movie>
+			<name>ДУША КОМПАНІЇ</name>
+			<time>c 10.05</time>
+			<genre>комедія</genre>
+		</movie>
+		<movie>
+			<name>СТАТУС: UPDATE</name>
+			<time>с 3.05</time>
+			<genre>комедія</genre>
+		</movie>
+		<movie>
+			<name>ТАТКО ГУСАК</name>
+			<time>с 3.05</time>
+			<genre>мультфільм</genre>
+		</movie>
+		<movie>
+			<name>ПТАШИНІ ПРИГОДИ</name>
+			<time>с 26.04</time>
+			<genre>мультфільм, сімейний, анімація</genre>
+		</movie>
+
+	</Poster>
+</Cinema>

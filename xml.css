@@ -1,0 +1,61 @@
+Cinema	{background-image:url("images/header-background.jpg");
+	}
+	
+Poster {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+    display: block;
+    margin: 20px auto;
+    background-color: rgb(0, 0, 0);
+    width: 1160px;
+    height: 350px;
+    border: 1px solid #000;
+    box-shadow: 0px 0px 9px 8px rgb(255, 255, 255), inset -4px -3px 8px 0px rgb(0, 0, 0);
+	}
+	
+span {
+    display: block;
+    text-align: center;
+    Color: #ffffff;
+    height: 70px;
+    line-height: 70px;
+    text-transform: uppercase;
+    font-size: 35px;
+	}
+	
+movie {
+	
+	text-align:center;
+    display: block;
+    width: 135px;
+    height: 200px;
+    float: left;
+    margin: 5px 5px 5px 5px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: inset -4px -3px 5px 0px rgba(0,0,0,0.75);
+	}
+	
+name,time,genre{display:block;
+				margin:10px auto;
+				text-align:center;
+				}
+
+name{width:120px; 
+	  color:#fff;
+	  background-color:#EE4000;
+	  border:1px solid #EE4000;
+	  border-radius:5px;
+	  text-transform:uppercase;
+	  }
+	  
+time{font-size: 20px;
+    color: #000000;
+    font-weight: bold;
+	}
+	
+genre { color: #000000;
+    	font-size: 15px;
+	}
